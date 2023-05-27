@@ -175,6 +175,10 @@ h1 {
         width: 100%;
 
     }
+  .container div textarea {
+      padding:5px;
+
+    }
 
     .container div input[type=text] {
         width: 75vw;
